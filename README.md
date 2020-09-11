@@ -104,3 +104,7 @@ NLP pipeline consists of text processing, feature extraction, and modeling.
 [Dataframe indexing and selection](Side-projects/Dataframe-indexing-selecting.ipynb)
 
 [Hypothesis testing](Side-projects/Hypthesis-testing.ipynb)
+
+## Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevingoh/AI-for-Trading.git/master?urlpath=lab) in JupyterLab environment
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevingoh/AI-for-Trading.git/master) in Jupyter Notebook environment
